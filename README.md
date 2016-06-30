@@ -1,25 +1,10 @@
-Ionic App Base
+First Angular App
 =====================
 
-A starting project for Ionic that optionally supports using custom SCSS.
+This is a Task App tutorial I followed along with on Scotch.io
 
-## Using this project
+## Making this project
 
-We recommend using the [Ionic CLI](https://github.com/driftyco/ionic-cli) to create new Ionic projects that are based on this project but use a ready-made starter template.
+This task app was built using Angular, Cordova, and Ionic.  After building the app I used PhoneGap to test it on my phone.  After following along with the tutorial I was still receiving several errors.  After debugging the issues I quickly realized that the tutorial was missing several methods necessary for the app to work.  After going through the tutorial I was able to have a good enough understanding to be able to debug and fix all of the issues.
 
-For example, to start a new Ionic project with the default tabs interface, make sure the `ionic` utility is installed:
 
-```bash
-$ npm install -g ionic
-```
-
-Then run: 
-
-```bash
-$ ionic start myProject tabs
-```
-
-More info on this can be found on the Ionic [Getting Started](http://ionicframework.com/getting-started) page and the [Ionic CLI](https://github.com/driftyco/ionic-cli) repo.
-
-## Issues
-Issues have been disabled on this repo, if you do find an issue or have a question consider posting it on the [Ionic Forum](http://forum.ionicframework.com/).  Or else if there is truly an error, follow our guidelines for [submitting an issue](http://ionicframework.com/submit-issue/) to the main Ionic repository.
